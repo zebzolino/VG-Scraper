@@ -1,7 +1,7 @@
 VG-Scraper
 ====
 
-VG-Scraper is a convinient program where you can find all the news articles instead of finding one yourself. For more info: vgscraper.netlify.app and vgscaper.github.io
+VG-Scraper is a convinient program where you can find all the news articles instead of finding one yourself.
 
 Installing [Linux]
 ----------
