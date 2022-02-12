@@ -1,2 +1,25 @@
-# VG-Scraper
-VG-Scraper is a python program using the module called BeautifulSoup which allows anyone to scrape something off an website. This program lets you put in a number trough an input and a number is 1 news article.
+VG-Scraper
+====
+
+VG-Scraper is a convinient program where you can find all the news articles instead of finding one yourself. For more info: vgscraper.netlify.app and vgscaper.github.io
+
+Installing [Linux]
+----------
+Open a terminal with root permission
+
+    pip install bs4
+    pip install requests
+    git clone https://github.com/zebzolino/VG-Scraper/releases
+    
+Installing [Windows]
+----------
+Open cmd with administrator privilliges
+
+    pip install bs4
+    pip install requests
+    go to: https://github.com/zebzolino/VG-Scraper/releases
+    
+
+Contributing
+------------
+You are allowed to fork the project/copy it but you have to give credits.
